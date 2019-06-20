@@ -1,0 +1,1 @@
+Landing page para eventos de Shipea
